@@ -4,6 +4,7 @@
 🔭 I am currently working on **developing advanced AI-driven computer vision solutions** and streamlining **Docker-based CI/CD** pipelines for low-latency video analytics.
 
 ## 🌐 Socials:
+[![](https://visitcount.itsvg.in/api?id=nitya-ranjan&icon=5&color=13)](https://visitcount.itsvg.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nityaranjan/) 
 
 # 💻 Tech Stack:
@@ -71,6 +72,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nitya-ranjan&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=nitya-ranjan&icon=5&color=13)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
