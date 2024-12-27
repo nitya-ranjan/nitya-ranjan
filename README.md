@@ -1,7 +1,7 @@
 # Nitya Ranjan:
 “The best way to predict the future is to invent it.” — Alan Kay
 
-🔭 I am currently working on **developing advanced AI-driven computer vision solutions** and streamlining **Docker-based CI/CD** pipelines for low-latency video analytics.
+🔭 I am currently working on **developing advanced AI-driven computer vision solutions**
 
 ## 🌐 Socials:
 [![](https://visitcount.itsvg.in/api?id=nitya-ranjan&icon=5&color=13)](https://visitcount.itsvg.in)
