@@ -11,7 +11,6 @@
 🌱 Always learning and exploring cutting-edge technologies
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nityaranjan/)
-[![Profile Views](https://visitcount.itsvg.in/api?id=nitya-ranjan&icon=5&color=13)](https://visitcount.itsvg.in)
 
 </div>
 
